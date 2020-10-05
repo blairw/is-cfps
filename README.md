@@ -31,3 +31,17 @@ CFPs:
 
 | Journal | CfP Topic (with link) | Deadline |
 | - | - | - |
+| IJIM | Call for Papers (Special Section @IJIM) Theme: Data-driven innovation: The future of new product development in digital markets [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/special-section-ijim-theme-data-driven-innovation) | `31 Nov. 2020` |
+| I&O | Qualitative Research in the Age of Digitalization [(link)](https://www.journals.elsevier.com/information-and-organization/call-for-papers/qualitative-research-in-the-age-of-digitalization) | `7 Dec. 2020` |
+| DSS | Special Issue of Decision Support Systems on Data Analytics and Decision-Making Systems: Implications of the Global Outbreaks [(link)](https://www.journals.elsevier.com/decision-support-systems/call-for-papers/special-issue-data-analytics-and-decision-making-systems) | `30 Dec. 2020` |
+| IJIM | Call for Papers (Special Section @IJIM) Theme: Incorporating Blockchain Technology in Information Systems Research Short Title SI: blockchain in IS [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/incorporating-blockchain-technology-in-information-systems) | `30 Dec. 2020` |
+| IJIM | Call for papers for the Special Issue:Understanding the use of digital technologies in entrepreneurial start-up settings and growth –oriented firms
+ [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/understanding-the-use-of-digital-technologies) | `15 Jan. 2020` |
+| IJIM | Call for Papers (Special Section @IJIM) Theme: AI-enhanced information management & the Global South: developments and issues Short Title SI: AI, IM & Global South [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/ai-enhanced-information-management-the-global-south) | `20 Feb. 2021` |
+| IJIM | Call for Papers (Special Section @ IJIM)-Theme: Theory Building in Information Systems with Big Data-Driven Research "Short Title SI: Big data theory building" [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/big-data-theory-building) | `30 Jul. 2021` |
+| IJIM | CALL FOR PAPERS for Special Issue on: Implications of Artificial Intelligence (AI) for Decision-Making and the Future of Work
+ [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/implications-of-artificial-intelligence-for-decision-making) | `30 Nov. 2020` |
+| IJIM | Call for Papers: Emerging digital technologies and applications for SMEs [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/emerging-digital-technologies-and-applications-for-smes) | `30 Dec. 2021` |
+| I&O | Special Section Call for Papers: Research Impact and Contribtutions to Knowledge [(link)](https://www.journals.elsevier.com/information-and-organization/call-for-papers/special-section-call-for-papers-research-impact-and-contribt) | Ongoing |
+| TOCHI | _None current._ | N/A |
+| I&M | _None current._ | N/A |
