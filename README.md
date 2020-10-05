@@ -9,6 +9,8 @@ CFPs:
 
 | Journal | CfP Topic (with link) | Deadline |
 | - | - | - |
+| ISR | _None current._ | N/A |
+| ISJ | [Causes, Symptoms and Consequences of Social Media-Induced Polarization (SMIP)](https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ_SMIP_CFP%20(002).pdf) | 2021-01-31
 | EJIS | _None current._ | N/A |
 
 Last updated 5 Oct 2020 (Sydney/Australia time).
