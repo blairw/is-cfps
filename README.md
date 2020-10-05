@@ -42,7 +42,7 @@ CFPs:
 | IJIM | Big data theory building [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/big-data-theory-building) | `30 Jul. 2021` |
 | IJIM | Implications of Artificial Intelligence (AI) for Decision-Making and the Future of Work [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/implications-of-artificial-intelligence-for-decision-making) | `30 Nov. 2021` |
 | IJIM | Emerging digital technologies and applications for SMEs [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/emerging-digital-technologies-and-applications-for-smes) | `30 Dec. 2021` |
-| I&O | Special Section Call for Papers: Research Impact and Contribtutions to Knowledge [(link)](https://www.journals.elsevier.com/information-and-organization/call-for-papers/special-section-call-for-papers-research-impact-and-contribt) | Ongoing |
+| I&O | Special Section Call for Papers: Research Impact and Contributions to Knowledge [(link)](https://www.journals.elsevier.com/information-and-organization/call-for-papers/special-section-call-for-papers-research-impact-and-contribt) | Ongoing |
 | TOCHI | _None current._ | N/A |
 | I&M | _None current._ | N/A |
 
