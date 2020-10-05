@@ -22,3 +22,12 @@ CFPs:
 | JSIS | _None current._ | N/A |
 
 Last updated 5 Oct 2020 (Sydney/Australia time).
+
+## ABDC A* (excluding Bo8 as these are already listed above)
+
+Journals: [TOCHI](https://dl.acm.org/journal/tochi), [DSS](https://www.journals.elsevier.com/decision-support-systems), [I&M](https://www.journals.elsevier.com/information-and-management), [I&O](https://www.journals.elsevier.com/information-and-organization), [IJIM](https://www.journals.elsevier.com/international-journal-of-information-management), [JASIST](https://asistdl.onlinelibrary.wiley.com/journal/23301643)
+
+CFPs:
+
+| Journal | CfP Topic (with link) | Deadline |
+| - | - | - |
