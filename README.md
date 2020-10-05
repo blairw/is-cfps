@@ -32,7 +32,7 @@ CFPs:
 | Journal | CfP Topic (with link) | Deadline |
 | - | - | - |
 | IJIM | Data-driven innovation: The future of new product development in digital markets [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/special-section-ijim-theme-data-driven-innovation) | `31 Nov. 2020` |
-| I&O | Qualitative Research in the Age of Digitalization [(link)](https://www.journals.elsevier.com/information-and-organization/call-for-papers/qualitative-research-in-the-age-of-digitalization) | `7 Dec. 2020` |
+| I&O | Qualitative Research in the Age of Digitalization [(link)](https://www.journals.elsevier.com/information-and-organization/call-for-papers/qualitative-research-in-the-age-of-digitalization) | `07 Dec. 2020` |
 | DSS | Implications of the Global Outbreaks [(link)](https://www.journals.elsevier.com/decision-support-systems/call-for-papers/special-issue-data-analytics-and-decision-making-systems) | `30 Dec. 2020` |
 | IJIM | Blockchain in IS [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/incorporating-blockchain-technology-in-information-systems) | `30 Dec. 2020` |
 | IJIM | Digital technologies in entrepreneurial start-up settings and growth-oriented firms [(link)](https://www.journals.elsevier.com/international-journal-of-information-management/call-for-papers/understanding-the-use-of-digital-technologies) | `15 Jan. 2021` |
