@@ -21,7 +21,7 @@ CFPs:
 | JMIS | _None current._ | N/A |
 | JSIS | _None current._ | N/A |
 
-Last updated 5 Oct 2020 (Sydney/Australia time).
+_Last updated 5 Oct 2020 (Sydney/Australia time)._
 
 ## ABDC A* (excluding Bo8 as these are already listed above)
 
@@ -45,3 +45,5 @@ CFPs:
 | I&O | Special Section Call for Papers: Research Impact and Contribtutions to Knowledge [(link)](https://www.journals.elsevier.com/information-and-organization/call-for-papers/special-section-call-for-papers-research-impact-and-contribt) | Ongoing |
 | TOCHI | _None current._ | N/A |
 | I&M | _None current._ | N/A |
+
+_Last updated 5 Oct 2020 (Sydney/Australia time)._
