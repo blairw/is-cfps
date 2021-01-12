@@ -12,6 +12,10 @@ CFPs:
 | ISJ | Causes, Symptoms and Consequences of Social Media-Induced Polarization (SMIP) [(link)](https://onlinelibrary.wiley.com/pb-assets/assets/13652575/ISJ_SMIP_CFP%20(002).pdf) | `31 Jan. 2021` |
 | JIT | Emerging Technologies and IS Sourcing [(link)](https://journals.sagepub.com/pb-assets/cmscontent/JIT%20CFP%20SI%20Emerging%20Technologies%20IS%20Sourcing%20FINAL-1588000712277.pdf) | `26 Feb. 2021` |
 | JAIS | Technology and Social Inclusion: Building a dialectic on the role of technology [(link)](https://aisel.aisnet.org/jais/SocialInclusionSI.pdf) | `15 Mar. 2021` |
+| JIT | Ethical Issues and Unintended Consequences of Digitalization and Platformization [(link)](https://journals.sagepub.com/pb-assets/cmscontent/JIN/JIT%20CFP%20SI%20Ethical%20Issues%20Digitalization-1610037043593.pdf) | `01 Jun. 2021` |
+| EJIS | Digital Enabled Strategic Agility: The Next Frontier [(link)](https://www.journalconferencejob.com/digital-enabled-strategic-agility) | `01 Jun. 2021` |
+| ISJ | Digital Platforms and Ecosystems [(link)](https://onlinelibrary.wiley.com/page/journal/13652575/homepage/special_issues.htm) | `30 Jun. 2021` |
+| EJIS | Clinical Research from Information Systems Practice | `15 Sep. 2021` |
 | JAIS | JAIS Promise [(link)](https://aisel.aisnet.org/jais/JAISPromise.pdf) | Ongoing |
 | EJIS | _None current._ | N/A |
 | ISR | _None current._ | N/A |
